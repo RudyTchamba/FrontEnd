@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "status": "active",
+      "role": "admin"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "body": "This is the first post content",
+      "userId": 1,
+      "status": "published",
+      "publishedAt": "2024-02-07T10:00:00.000Z"
+    }
+  ]
+}
