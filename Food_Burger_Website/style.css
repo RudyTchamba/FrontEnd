@@ -186,7 +186,14 @@
     text-shadow: 1px 1px 1px black;
 }
 
-#top-icons i image{
+#top-icons i img{
     width: 100px;
+}
+
+#top-icons h3{
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    font-weight: bold;
+    margin-left: 20px;
 }
 /* top-icons*/
